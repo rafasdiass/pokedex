@@ -1,6 +1,7 @@
-# Pokedex using Angular and Bootstrap with PokeAPI
+<h1> Pokedex using Angular and Bootstrap with PokeAPI</h2>
 
 Criando uma Pokedex com a ajuda da PokeAPI, Angular e Bootstrap.
+
 
 
 API utilizadas:
